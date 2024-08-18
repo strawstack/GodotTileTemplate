@@ -6,7 +6,7 @@ Templates for Godot Autotiles.
 
 1. Open the Godot 4 project.
 2. Observe the tile maps that are wired up for autotiles.
-3. Modify the tile map images in Aseprite.
+3. Modify the tile map png images in Aseprite.
 4. Examine the tilemaps in the editor to ensure all tiles are correct. 
 
 # Images
