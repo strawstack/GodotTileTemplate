@@ -33,3 +33,7 @@ Templates for Godot Autotiles.
 
 ## 64 Pixel Tiles
 ![](./png_templates/2x2/64px.png)
+
+# Godot Project
+
+![](./godot.png)
