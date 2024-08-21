@@ -9,16 +9,27 @@ Templates for Godot Autotiles.
 3. Modify the tile map png images in Aseprite.
 4. Examine the resulting tilemaps in the editor. 
 
-# Images
+# 3x3 Template Images
 
 ## 16 Pixel Tiles
-![](./png_templates/16px.png)
+![](./png_templates/3x3/16px.png)
 
 ## 32 Pixel Tiles
-![](./png_templates/32px.png)
+![](./png_templates/3x3/32px.png)
 
 ## 64 Pixel Tiles
-![](./png_templates/64px.png)
+![](./png_templates/3x3/64px.png)
 
-## 16 Pixel Tiles (with symbols)
-![](./png_templates/64px_symbols.png)
+## 64 Pixel Tiles (with symbols)
+![](./png_templates/3x3/64px_symbols.png)
+
+# 2x2 Template Images
+
+## 16 Pixel Tiles
+![](./png_templates/2x2/16px.png)
+
+## 32 Pixel Tiles
+![](./png_templates/2x2/32px.png)
+
+## 64 Pixel Tiles
+![](./png_templates/2x2/64px.png)
